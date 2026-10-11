@@ -25,6 +25,7 @@ I build clean interfaces, and I study psychology to understand the people who us
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
 </div>
 <br/>
 <div>
@@ -50,8 +51,8 @@ I build clean interfaces, and I study psychology to understand the people who us
 <br/>
 <div>
 <img src="https://img.shields.io/badge/Arabic-Native-2e6bd6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-B2-1f9d55?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/German-A2%20(learning)-d64545?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-fluent-1f9d55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/German-B1%20(learning)-d64545?style=for-the-badge"/>
 </div>
 
 <br/>
@@ -71,9 +72,5 @@ I build clean interfaces, and I study psychology to understand the people who us
 ![Stats](https://github-readme-stats.vercel.app/api?username=aliashraff-afk&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 <br/>
-
-### Can you break this counter?
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aliashraff-afk&style=for-the-badge&color=blueviolet)
 
 </div>
