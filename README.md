@@ -68,12 +68,12 @@ I build clean interfaces, and I study psychology to understand the people who us
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=aliashraff-afk&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 <br/>
 
 ### Can you break this counter?
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=aliashraff-afk&style=for-the-badge&color=blueviolet)
 
 </div>
