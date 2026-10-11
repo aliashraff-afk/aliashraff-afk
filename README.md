@@ -1,59 +1,79 @@
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://media1.tenor.com/m/RVyKVVmrpbkAAAAd/adios-goodbye.gif" alt="Spider-Man saluting goodbye" width="320">
 
 <br />
 
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
+> **GIF loading a little slow? Spider-Man is still swinging in 🕷️**
 
 <br/>
 <br/>
 
-### **Having fun with these stack 👨🏽‍💻**
+### **Hi, I'm Ali Ashraf 👋**
+
+Front-end developer & web designer.
+<br/>
+I build clean interfaces, and I study psychology to understand the people who use them 🧠
 
 <br/>
-<div>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-</div>
 <br/>
-<div>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+### **Having fun with this stack 👨🏻‍💻**
 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</div>
 <br/>
 <div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 <br/>
 
-### and more >w<
+### **Currently learning 📚**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+### **Languages I speak 🗣️**
+
+<br/>
+<div>
+<img src="https://img.shields.io/badge/Arabic-Native-2e6bd6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-B2-1f9d55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/German-A2%20(learning)-d64545?style=for-the-badge"/>
+</div>
+
+<br/>
+
+### **Off-screen 🧠**
+
+<img src="https://img.shields.io/badge/Psychology-Student-8e44ad?style=for-the-badge"/>
+
+<br/>
+
+### and a few more things ✨
+
+<img src="https://skillicons.dev/icons?i=vscode,github,npm&theme=dark" alt="more tools"/>
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 <br/>
 
 ### Can you break this counter?
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kelvinosse)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet)
 
 </div>
